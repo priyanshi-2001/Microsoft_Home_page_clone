@@ -1,0 +1,31 @@
+/**{
+    margin:17px;
+    padding:0;
+    box-sizing: border-box;
+}
+header nav  ul li{
+    list-style: none;
+    text-decoration: none;
+    display:inline-block;
+}
+.nav_container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size:12px;
+  max-width:1100px;
+}
+.left_navbar li{
+   
+}
+.right_navbar li{
+    
+}
+.logo{
+    height:50px;
+    width:110px; 
+}*/
+header{
+   color:white;
+   background-image: url("bg1.png");
+}
